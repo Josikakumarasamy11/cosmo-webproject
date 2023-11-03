@@ -80,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 "# Cosmetics-webpage" 
 "# Cosmetics-webpage" 
 "# Cosmetics-webpage" 
+"# cosmo-webproject" 
